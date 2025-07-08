@@ -39,3 +39,6 @@ Compares SDTM/ADaM, TLF datasets, etc. Assume a double program in the pharmaceut
 
 
 <img width="1208" height="198" alt="Image" src="https://github.com/user-attachments/assets/e69b95dd-cea5-4249-b600-9e1143b65074" />
+
+
+<img width="470" height="857" alt="Image" src="https://github.com/user-attachments/assets/da9e0b28-4269-42bc-8ee9-08a41c985e53" />
