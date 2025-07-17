@@ -3,7 +3,7 @@ Compares SDTM/ADaM, TLF datasets, etc. Assume a double program in the pharmaceut
 
 ![sas_compare](./sas_compare_small.png)  
 
-#%ads_compare
+# %ads_compare
  
  Main Functions  :
    - Iteratively compares a list of target datasets between two libraries.
