@@ -1,7 +1,7 @@
 # sas_compare
 Compares SDTM/ADaM, TLF datasets, etc. Assume a double program in the pharmaceutical industry to compare main and sub
 
-![sas_compare](./sas_compare_small.png)  
+<img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/317afaaf-f856-4e82-9ae1-9f54f7f86890" />
 
 # %ads_compare
  
