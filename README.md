@@ -44,6 +44,12 @@ Compares SDTM/ADaM, TLF datasets, etc. Assume a double program in the pharmaceut
 <img width="470" height="857" alt="Image" src="https://github.com/user-attachments/assets/da9e0b28-4269-42bc-8ee9-08a41c985e53" />
 
 
+## Notes on versions history
+
+- 0.1.1(28August2025): BugFix. 
+- 0.1.0(11July2025): Initial version.
+
+
 ## What is SAS Packages?
 
 The package is built on top of **SAS Packages Framework(SPF)** developed by Bartosz Jablonski.
