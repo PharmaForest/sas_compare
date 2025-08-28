@@ -47,7 +47,7 @@ Compares SDTM/ADaM, TLF datasets, etc. Assume a double program in the pharmaceut
 ## Notes on versions history
 
 - 0.1.1(28August2025): BugFix. 
-- 0.1.0(11July2025): Initial version.
+- 0.1.0(09July2025): Initial version.
 
 
 ## What is SAS Packages?
